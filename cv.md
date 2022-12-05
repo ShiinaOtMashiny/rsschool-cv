@@ -1,7 +1,7 @@
 # CV Andrei Makaro (@ShiinaOtMashiny)
 ***
 ## About
-![My avatar](/img/avatar.jpg "Andrei Makaro")
+![My avatar](avatar.jpg "Andrei Makaro")
 
 [My Instagram](https://www.instagram.com/shiina_mashiro_22/)
 
