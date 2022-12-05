@@ -1,7 +1,8 @@
 # CV Andrei Makaro (@ShiinaOtMashiny)
 ***
 ## About
-[![My avatar](/img/avatar.jpg "Andrei Makaro")][tag_social]
+![My avatar](/img/avatar.jpg "Andrei Makaro")
+[My Instagram][tag_social]
 ***Coutry:*** Belarus, **City:** Minsk, *Street:* Alibegova.
 `Postal adress: 220000`
 Favourite saing:
