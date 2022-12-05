@@ -2,7 +2,7 @@
 ***
 ## About
 ![My avatar](/img/avatar.jpg "Andrei Makaro")
-[My Instagram][tag_social]
+[My Instagram](https://www.instagram.com/shiina_mashiro_22/)
 ***Coutry:*** Belarus, **City:** Minsk, *Street:* Alibegova.
 `Postal adress: 220000`
 Favourite saing:
@@ -23,4 +23,3 @@ Andrei    |Father   |\>40
 Elena     |Mother   |\>35
 Konstantin|Brother  |\<18
 Sofia     |Sister   |\<18
-[tag_social][https://www.instagram.com/shiina_mashiro_22/]
