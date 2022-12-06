@@ -48,7 +48,7 @@ None as of yet
 ## Experience
 
 * System administrator:
-    ** 2021 - current
+    * 2021 - current
 
 ***
 ## Languages
