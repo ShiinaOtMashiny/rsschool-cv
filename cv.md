@@ -33,7 +33,9 @@ I am 22 years old; currently I'm working as a system administrator. I'm getting 
 
 ## Code examples
 
-'None as of yet'
+```
+None as of yet
+```
 
 ***
 
