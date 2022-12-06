@@ -14,9 +14,9 @@
 ***
 ## About Me
 
-I am 22 years old, currently I'm working as a sistem administrator. I'm getting way to tired of the communications with my colegues, so I'm thinkink of switching to coding. Since as far as I'm aware most of your work doesn't need constant communication with colegues.
+I am 22 years old; currently I'm working as a system administrator. I'm getting way to tired of the communications with my colleagues, so I'm thinking of switching to coding. As far as I'm aware, most of your work doesn't need constant communication with colleagues.
 
-* **My sthrengths:**
+* **My strengths:**
     * Quick learner
     * Diligence
     * Searching and analytic skills
