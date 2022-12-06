@@ -53,7 +53,7 @@ None as of yet
 ***
 ## Languages
 
-* English - C1 Advanced to C2 proficient (according to the online quick test at [EFset](https://www.efset.org/)
+* English - C1 Advanced to C2 proficient (according to the online quick test at [EFset](https://www.efset.org/))
 
 * Russian - Native
 
