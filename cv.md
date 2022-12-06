@@ -23,10 +23,36 @@ I am 22 years old; currently I'm working as a system administrator. I'm getting 
 > *Classic' – a book which people praise and don't read.*
 
 ***
-## Family
-   Name   |  Role   |  Age  
-----------|:-------:|:-----:
-Andrei    |Father   |\>40
-Elena     |Mother   |\>35
-Konstantin|Brother  |\<18
-Sofia     |Sister   |\<18
+
+## Skills
+
+* **HTML**(Basics)
+* **CSS**(Basics)
+
+***
+
+## Code examples
+
+'None as of yet'
+
+***
+
+## Education
+
+* **First degree:** Information Security in Telecommunications, *BSUIR*
+
+***
+
+## Experience
+
+* System administrator:
+    ** 2021 - current
+
+***
+## Languages
+
+* English - C1 Advanced to C2 proficient (according to the online quick test at [EFset](https://www.efset.org/)
+
+* Russian - Native
+
+* Belarusian - Intermediate
