@@ -1,0 +1,86 @@
+body {
+    width: 50%;
+    margin: auto;
+    background-color: rgb(243, 241, 240);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:link {
+    color: rgb(95, 95, 95);
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(95, 95, 95);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(72, 4, 104);
+    text-decoration: none;
+}
+
+a:active {
+    color: rgb(143, 9, 206);
+    text-decoration: none;
+}
+
+a[href^="#"]:link {
+    color: black;
+    text-decoration: none;
+}
+
+a[href^="#"]:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a[href^="#"]:hover {
+    color: rgb(72, 4, 104);
+    text-decoration: none;
+}
+
+a[href^="#"]:active {
+    color: rgb(143, 9, 206);
+    text-decoration: underline;
+}
+
+footer {
+    height: 40px;
+}
+
+footer a {
+    display: flex;
+    justify-content: center;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+header a {
+    display: flex;
+    justify-content: center;
+}
+
+header img {
+    display: flex;
+    justify-content: center;
+}
+
+img.avatar {
+    height: 50px;
+    margin: auto;
+    margin-right: 10px;
+}
+
+h1 {
+    width: 50%;
+}
+
+img.rsschool {
+    height: 30px;
+    margin: 5px;
+}
