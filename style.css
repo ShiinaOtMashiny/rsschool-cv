@@ -54,6 +54,32 @@ footer a {
     justify-content: center;
 }
 
+header {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+header a {
+    display: flex;
+    justify-content: center;
+}
+
+header img {
+    display: flex;
+    justify-content: center;
+}
+
+img.avatar {
+    height: 50px;
+    margin: auto;
+    margin-right: 10px;
+}
+
+h1 {
+    width: 50%;
+}
+
 img.rsschool {
     height: 30px;
     margin: 5px;
